@@ -1,0 +1,28 @@
+body {
+    background-color: dodgerblue ;
+}
+
+#main {
+    float: center;
+    border-style: 1px solid rgba(0, 0, 0, 0.125) ;
+    width: 60% ;
+    margin-left: auto ;
+    margin-right: auto ;
+    height: 100% ;
+}
+
+.post {
+    background-color: whitesmoke ;
+    padding: 1% ;
+    border-bottom: 3px solid dodgerblue;
+}
+
+.post img {
+    height:64px ;
+    width:64px ;
+    border-radius: 100% ;
+}
+
+a:hover , a:focus {
+    text-decoration: none;
+}
